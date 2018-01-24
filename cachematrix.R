@@ -1,5 +1,5 @@
 # Benedict Olgado
-#12-27-2017
+#12-27-2017 edit 1-24-2018
 # cachematrix.R
 # example usage:
 #> source("cachematrix.R")
